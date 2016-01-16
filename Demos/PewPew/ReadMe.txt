@@ -1,0 +1,28 @@
+This is a simple game where you can run around using a gamepad/joystick or the keyboard and shoot your friends (and enemies).
+
+Each player uses a unique device. Connect the device and press "configure a controller" from the main menu. Once in the configuration screen, press buttons or use axes to set up the controls. Note that some controllers are pre-configured.
+
+Note that only the Corona Simulator for OS X and Android devices support gamepads/joysticks.
+
+CREDITS/ASSETS
+
+Background music:
+  Eric Matyas
+  http://soundimage.org
+
+"Pew" sound:
+    Sergenious
+    www.freesound.org/people/Sergenious
+
+"Super Pew" sound:
+    bubaproducer
+    www.freesound.org/people/bubaproducer
+
+Damage sound:
+    LittleRobotSoundFactory
+    www.freesound.org/people/
+    LittleRobotSoundFactory
+	
+Death sound:
+    noirenex
+    www.freesound.org/people/noirenex
